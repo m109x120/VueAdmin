@@ -1,8 +1,7 @@
-html,body{
+html,body,h2{
   height: 100%;
   margin: 0px;
   padding: 0px;
-  background: #324152;
 }
 #app{
   width: 100%;
